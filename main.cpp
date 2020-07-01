@@ -1,36 +1,14 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <cstdlib>
 #include "mylib.h"//Подключаем заголовочный файл
 using namespace std;
-
-int main(){ 
-	string namefile;//Строка, отвечающая за название файла с данными
+int main(int argc, char *argv[]){
+	string namefile; 
+	namefile=argv[1];
 	cout << "Good morning."<<endl;
 	string s;//На случай смены файла с данными
 	int n;
 	int k=0;
-	while (k==0){
-		cout << "Please enter new database name:(txt file!)- print '0' if you cant"<<endl;
-		cin >> s;
-		if (s=="0"){
-			exit(0);
-		}
-		namefile=s;
-		fstream file1;
-		file1.open(namefile);
-		if(!file1.is_open()){
-			cout <<"Sorry, database can not be found. Please try again"<<endl;
-		}
-		else{	
-			cout<<"Database changed sucsessfully"<<endl;
-			k=1;
-		}
-		file1.close();
-	}
+	fstream file1;
 	fstream file2;
-	k=0;
 	while (k==0){//Цикл по k
 		cout <<"Your Database name right now is: "<< namefile<<endl;
 		cout <<"Press:"<<endl;
@@ -85,4 +63,3 @@ int main(){
 	}
 	return 0;
 }
-
