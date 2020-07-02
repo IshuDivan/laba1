@@ -26,7 +26,7 @@ void add (string namefile)
 		k++;
 	}
 	k--;
-	Bricks *a = new Bricks[k+1];
+	Bricks *a = new Bricks[k];
 	fin.close();
 	fin.open(namefile);	
 	for (i=0; i<k; i++){
