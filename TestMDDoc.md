@@ -4,6 +4,7 @@ If you have never seen Git/Github in your life, and just want to be able to put 
 Mow, lets get to the different processes you might want to do:
 
 0.Creating an issue
+
 1)On GitHub.com, navigate to the main page of the repository.
 
 2)Under your repository name, click Issues
