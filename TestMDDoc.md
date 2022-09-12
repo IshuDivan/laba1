@@ -5,9 +5,13 @@ Mow, lets get to the different processes you might want to do:
 
 0.Creating an issue
 1)On GitHub.com, navigate to the main page of the repository.
+
 2)Under your repository name, click Issues
+
 3)Find Big Green Button saying "New Issue"
+
 This will be a sign that you have started  a work on some project/changed something/wanted everyone to pay attention to something. We will be able to link issues to the pull requests later. For now just write in the description of the Issue what you want to do/did/add to the specific branch
+
 Now, leave that Issue alone, give it some time. We can edit it at any point anyways, so don't worry if you have typed domething wrong. Now to the real stuff:
 
 
