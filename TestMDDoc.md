@@ -105,7 +105,7 @@ Now, leave that Issue alone, give it some time. We can edit it at any point anyw
   
   with the #number you can link pull requests to the different issues. For example
   
-  Closes #1
+          Closes #1
   
   will make a connection between your pull request and the Issue number 1. It will even show up in the issue #1's "Development" menu on the right.
   
