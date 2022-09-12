@@ -87,23 +87,23 @@ Windows system:
   
   By using set words:
   
-  -close
-  
-  -closes
-  
-  -closed
-  
-  -fix
-  
-  -fixes
-  
-  -fixed
-  
-  -resolve
-  
-  -resolves
-  
-  -resolved
+            -close
+
+            -closes
+
+            -closed
+
+            -fix
+
+            -fixes
+
+            -fixed
+
+            -resolve
+
+            -resolves
+
+            -resolved
   
   with the #number you can link pull requests to the different issues. For example
   
