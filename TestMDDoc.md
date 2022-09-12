@@ -60,15 +60,15 @@ Now, leave that Issue alone, give it some time. We can edit it at any point anyw
   
  5)Time to type different commands again!
   
-  ^git commit -m "The-Commit-Name"
-  
-  (The-Commit-Name will be the name of the file with the changes you make for everyone to see)
-  
-  
-  ^git push origin <Your new branch name>
-  
-  (THis will add the new branch you have made changes to on the GitHub)
- 
+            ^git commit -m "The-Commit-Name"
+
+            (The-Commit-Name will be the name of the file with the changes you make for everyone to see)
+
+
+            ^git push origin <Your new branch name>
+
+            (THis will add the new branch you have made changes to on the GitHub)
+
  CONGRATULATIONS! We can now add files to the original repository. But for those changes to be accepted as the "master" branch, we need to make a Pull Request.
  
           2. Making a pull request for your branch
