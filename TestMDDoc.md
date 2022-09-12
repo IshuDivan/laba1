@@ -5,7 +5,7 @@ This is your introduction to all the functions of Git and GitHub you have to kno
 If you have never seen Git/Github in your life, and just want to be able to put files into the databases without any learning of deeper mechanics of Git - this is your place to go!
 Now, lets get to the different processes you might want to do:
 
-0.Creating an issue
+          0.Creating an issue
 
 1)On GitHub.com, navigate to the main page of the repository.
 
@@ -18,7 +18,7 @@ This will be a sign that you have started  a work on some project/changed someth
 Now, leave that Issue alone, give it some time. We can edit it at any point anyways, so don't worry if you have typed domething wrong. Now to the real stuff:
 
 
-1. Adding file with your work/documentations/presentations into the Github database:
+          1. Adding file with your work/documentations/presentations into the Github database:
 
 1)You need the Git programm installed on your computer. If you don't have it installed on your system, just go to https://git-scm.com/download/ and download the installation file. follow the instructions with the default settings
 
@@ -73,7 +73,7 @@ Windows system:
  
  CONGRATULATIONS! We can now add files to the original repository. But for those changes to be accepted as the "master" branch, we need to make a Pull Request.
  
- 2. Making a pull request for your branch
+          2. Making a pull request for your branch
   
  When you go to our new branch (you can see it in the "branches" menu), you can see the big green button "Compare & pull-request". Choose it to send it for checking to different people.
  
