@@ -24,8 +24,6 @@ Now, leave that Issue alone, give it some time. We can edit it at any point anyw
 
 2)Now you have to clone the repository from the original GitHub into your system:
 
-Windows system:
-
   2.1)Open your "Start" menu and find with search the programm named "cmd". Open it.
   
   2.2)You can now "travel" to different Directories on your hard drive by typing in "cd <path-to-the-directory-you-want-to-go>". So go to the directory in which you want the repository to be stored in. 
